@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-socket-io-mongodb-template",
+  "version": "0.1.0",
+  "description": "NodeJS Anychart library usage template",
+  "private": true,
+  "keywords": [
+    "AnyChart",
+    "javascript",
+    "mongo",
+    "socketio",
+    "template"
+  ],
+  "author": "AnyChart",
+  "dependencies": {
+    "bluebird": "~3.4.6",
+    "ejs": "~2.5.5",
+    "error-page": "0.0.6",
+    "forever": "~0.10.11",
+    "mongoose": "^4.6.1",
+    "routes": "~0.2.0",
+    "socket.io": "^1.5.1",
+    "st": "~0.1.3",
+    "templar": "~0.2.1"
+  }
+}
